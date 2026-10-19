@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "PerryLink/dsh-evidence-check",
+  "name": "dsh-evidence-check",
+  "repository": "https://github.com/PerryLink/dsh-evidence-check",
+  "category": "tools",
+  "description": {
+    "en": "Evidence-list completeness check: maps facts to evidence and reports gaps with rule IDs.",
+    "zh": "证据清单齐备性核对：把待证事实映射到证据并输出缺口与规则 ID。"
+  },
+  "added": "2026-10-19"
+}
