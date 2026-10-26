@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "PerryLink/dsh-checkers",
+  "name": "@perrylink/dsh-checkers-suite",
+  "repository": "https://github.com/PerryLink/dsh-checkers",
+  "category": "tools",
+  "description": {
+    "en": "One-command installer for the 53-plugin PerryLink compliance suite: installs every checker and inserts all 53 Cordis rows through one bundle layer.",
+    "zh": "53 个合规核查插件的一键安装入口：一次插入全部 53 条 Cordis 行，每个 checker 仍保留自己的 npm 包、规则包与版本。"
+  },
+  "added": "2026-10-26"
+}
